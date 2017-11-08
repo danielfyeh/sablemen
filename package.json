@@ -1,0 +1,23 @@
+{
+  "name": "sablemen",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "moment": "^2.19.1",
+    "react": "^16.0.0",
+    "react-awesome-countdowntimer": "^1.1.1",
+    "react-dom": "^16.0.0",
+    "react-materialize": "^1.0.17",
+    "reactstrap": "^5.0.0-alpha.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
